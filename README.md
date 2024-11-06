@@ -1,6 +1,6 @@
-# website for Invoice Co app
+# website for InvoEase app
 
-This repo contains the contents of the Invoice Co app.
+This repo contains the contents of the InvoEase app.
 
 
 

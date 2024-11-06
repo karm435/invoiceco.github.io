@@ -10,14 +10,14 @@ September 18 2022
 # Press Kit
 <br>
 
-Help Invoice Co grow! I’m Karmjit, the developer of this app. I’m the only developer of the app so I really appreciate your help. If you have any questions just message me on [twitter]([http://twitter](https://twitter.com/CodeWithKarma))
+Help InvoEase grow! I’m Karmjit, the developer of this app. I’m the only developer of the app so I really appreciate your help. If you have any questions just message me on [twitter]([http://twitter](https://twitter.com/CodeWithKarma))
 
 ## Description
-Welcome to Invoice Co, your all-in-one solution for seamless invoice management. 
+Welcome to InvoEase, your all-in-one solution for seamless invoice management. 
 
-This user-friendly app empowers business owners to effortlessly create professional invoices, efficiently manage client information, organize line items with precision, and customize currency preferences to suit your business needs. With Invoice Co, generating and sending invoices in PDF format has never been more convenient. 
+This user-friendly app empowers business owners to effortlessly create professional invoices, efficiently manage client information, organize line items with precision, and customize currency preferences to suit your business needs. With InvoEase, generating and sending invoices in PDF format has never been more convenient. 
 
-Simplify your billing process and elevate your business efficiency with Invoice Co today
+Simplify your billing process and elevate your business efficiency with InvoEase today
 
 
 ## Screenshots & Assets
@@ -38,7 +38,7 @@ Simplify your billing process and elevate your business efficiency with Invoice 
 <br>
 
 ## Helpful links
-### Invoice Co App category URL
+### InvoEase App category URL
 https://apps.apple.com/app/id6464482594
 
 ### Find website
