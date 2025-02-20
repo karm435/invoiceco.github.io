@@ -12,20 +12,20 @@ presskit_download_link                    :                                     
 app_icon                                  : appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : InvoEase                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 0                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Easy manage invoices.
+app_description                           : Easy manage invoices and quotes.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Karma
-your_link                                 : https://www.codewithkarma.com
+your_name                                 : InvoEase Team
+your_link                                 : https://www.invoease.com
 your_city                                 : Brisbane
-email_address                             : karm.singh@outlook.com
+email_address                             : 
 facebook_username                         :                                           
 instagram_username                        :
-twitter_username                          : CodeWithKarma
+twitter_username                          : InvoEaseApp
 github_username                           :
 youtube_username                          :
 
