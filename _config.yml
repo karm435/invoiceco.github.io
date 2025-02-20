@@ -64,11 +64,11 @@ features                                  :
 
   - title                                 : iCloud Sync
     description                           : App support iCloud sync and your data is backed up to iCloud (If iCloud is enabled for the app in settings) and will be synced between devices.
-    fontawesome_icon_name                 : camera
+    fontawesome_icon_name                 : cloud
 
   - title                                 : Offline support
     description                           : App works completly in offline mode. Though you should be a pro user to do that.
-    fontawesome_icon_name                 : camera
+    fontawesome_icon_name                 : globe
 
 faqs                                      :
 
