@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : Customizable Templates
     description                           : Choose from beautiful set of customizable templates for invoices.
-    fontawesome_icon_name                 : file-lines
+    fontawesome_icon_name                 : file-contract
 
   - title                                 : Manage Clients
     description                           : Manage your clients easily.
@@ -52,11 +52,11 @@ features                                  :
 
   - title                                 : Manage your servicess
     description                           : Create line items for your services to quickly add them to the invoices.
-    fontawesome_icon_name                 : heart
+    fontawesome_icon_name                 : folder
 
   - title                                 : Choose currency
     description                           : Choose currency of your choice.
-    fontawesome_icon_name                 : dollar
+    fontawesome_icon_name                 : dollar-sign
 
   - title                                 : Tagging
     description                           : Tag the items for easy find related items.
