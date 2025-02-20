@@ -37,7 +37,15 @@ features                                  :
   - title                                 : Invoices
     description                           : Simplified creation of invoices and keep the invoices with states.
     fontawesome_icon_name                 : wallet
-    
+
+  - title                                 : Quotes
+    description                           : Simplified creation of quotes and simply convert them to invoices when required.
+    fontawesome_icon_name                 : file-invoice
+
+  - title                                 : Customizable Templates
+    description                           : Choose from beautiful set of customizable templates for invoices.
+    fontawesome_icon_name                 : file-lines
+
   - title                                 : Manage Clients
     description                           : Manage your clients easily.
     fontawesome_icon_name                 : camera
@@ -51,11 +59,15 @@ features                                  :
     fontawesome_icon_name                 : dollar
 
   - title                                 : Tagging
-    description                           : Tag the invoices for easy ma.
+    description                           : Tag the items for easy find related items.
     fontawesome_icon_name                 : tag
 
   - title                                 : iCloud Sync
     description                           : App support iCloud sync and your data is backed up to iCloud (If iCloud is enabled for the app in settings) and will be synced between devices.
+    fontawesome_icon_name                 : camera
+
+  - title                                 : Offline support
+    description                           : App works completly in offline mode. Though you should be a pro user to do that.
     fontawesome_icon_name                 : camera
 
 faqs                                      :
